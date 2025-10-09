@@ -7,7 +7,7 @@ Sempre aprendendo algo novo no universo da programação
 
 Curiosa, criativa e pronta pra colaborar em projetos reais!
 
-Por incrível que pareça, uma das horas mais legais do meu dia é tentar entender Java ao som de Thunderstruck.
+Uma das horas mais legais do meu dia é tentar entender Java ao som de Thunderstruck.
 
 ---
 
