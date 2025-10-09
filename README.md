@@ -39,7 +39,9 @@ Uma das horas mais legais do meu dia é tentar entender Java ao som de Thunderst
 ##  Contato
 <div align="center">
 <a href="https://www.linkedin.com/in/isabella-smachado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>  
-<a href="isabellaszmachado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a href="mailto:isabellamachado@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </div>
 
 
