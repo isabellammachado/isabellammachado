@@ -28,9 +28,9 @@ Uma das horas mais legais do meu dia é tentar entender Java ao som de Thunderst
 ## GitHub Stats
 <div align="center">
 
-![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellaMachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellammachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMachado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
