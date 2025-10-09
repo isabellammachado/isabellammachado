@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- 👋 Olá mundo! Sou a Isabella Machado 😄 -->
 
-<!--
-**isabellammachado/isabellammachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Isabella Machado
 
-Here are some ideas to get you started:
+### 
+Olá, mundo! Meu nome é Isabella e estou em transição para a área de TI. Atualmente, sou residente em Programação Full Stack pelo SERRATEC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡Sobre mim
+Sempre aprendendo algo novo no universo da programação  
+Curiosa, criativa e pronta pra colaborar em projetos reais!
+Por incrível que pareça, uma das horas mais legais do meu dia é tentar entender Java ao som de Thunderstruck.
+
+---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellaMachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMachado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+##  Contato
+ 
+<a href="https://www.linkedin.com/in/isabella-smachado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>  
+<a href="isabellaszmachado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+
+---
+
+
