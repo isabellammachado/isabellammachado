@@ -1,8 +1,8 @@
-### Olá, mundo! Meu nome é Isabella e estou em transição para a área de TI. Atualmente, sou residente em Programação Full Stack pelo SERRATEC.
+### 👩‍💻 Olá, mundo! Meu nome é Isabella e estou em transição para a área de TI. Atualmente, sou residente em Programação Full Stack pelo SERRATEC.
 
 ---
 
-## 💡Sobre mim
+## Sobre mim
 Sempre aprendendo algo novo no universo da programação  
 
 Curiosa, criativa e pronta pra colaborar em projetos reais!
