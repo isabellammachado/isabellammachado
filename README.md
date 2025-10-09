@@ -9,6 +9,7 @@ Sempre aprendendo algo novo no universo da programação
 Curiosa, criativa e pronta pra colaborar em projetos reais!
 
 Por incrível que pareça, uma das horas mais legais do meu dia é tentar entender Java ao som de Thunderstruck.
+
 ---
 
 ## Tecnologias e Ferramentas
@@ -22,6 +23,7 @@ Por incrível que pareça, uma das horas mais legais do meu dia é tentar entend
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
+
 ---
 
 ## GitHub Stats
@@ -34,6 +36,7 @@ Por incrível que pareça, uma das horas mais legais do meu dia é tentar entend
 </div>
 
 ---
+
 ##  Contato
 <a href="https://www.linkedin.com/in/isabella-smachado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>  
 <a href="isabellaszmachado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
