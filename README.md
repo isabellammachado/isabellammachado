@@ -1,5 +1,4 @@
-### 
-Olá, mundo! Meu nome é Isabella e estou em transição para a área de TI. Atualmente, sou residente em Programação Full Stack pelo SERRATEC.
+### Olá, mundo! Meu nome é Isabella e estou em transição para a área de TI. Atualmente, sou residente em Programação Full Stack pelo SERRATEC.
 
 ---
 
