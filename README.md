@@ -44,5 +44,10 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 
 </div>
 
+---
+
+## 🔄 Atividades Recentes no GitHub
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
