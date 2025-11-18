@@ -1,0 +1,21 @@
+name: Linguagens Automáticas
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar linguagens automáticas
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: languages.svg
+          template: languages
+          base: ""
+          user: isabellammachado
+          config_timezone: America/Sao_Paulo
