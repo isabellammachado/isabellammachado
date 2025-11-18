@@ -11,13 +11,11 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 
 ---
 
-## Tecnologias e Ferramentas
-<div align="center">
+## 🚀 Tecnologias 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isabellammachado/isabellammachado/main/tech.svg" alt="Tecnologias automáticas">
+</p>
 
-<!--TECH_SECTION_START-->
-<!--TECH_SECTION_END-->
-
-</div>
 
 
 ---
@@ -46,5 +44,6 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 ## 🔄 Atividades Recentes no GitHub
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 
 
