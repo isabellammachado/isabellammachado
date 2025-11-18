@@ -1,36 +1,27 @@
-name: Update Technologies
+name: Generate Tech Stack
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # atualiza a cada 12 horas
+    - cron: "0 */6 * * *" 
   workflow_dispatch:
+  push:
 
 jobs:
-  update-tech:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar repositório
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Atualizar tecnologias
-        uses: schneegans/dynamic-badges-action@v1.6.0
+      - name: Generate tech stack SVG
+        uses: jaywcjlove/github-action-readme-tech-stack@main
         with:
-          auth: ${{ secrets.GITHUB_TOKEN }}
-          path: README.md
-          content: |
-            ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-            ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-            ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-            ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-            ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-            ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-            ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+          OUTPUT: tech.svg
 
-      - name: Commit atualização
+      - name: Commit and push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Atualiza badges de tecnologias" || echo "Nenhuma atualização"
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "github-actions"
+          git add tech.svg
+          git commit -m "Atualização automática das tecnologias" || echo "Nada para atualizar"
           git push
