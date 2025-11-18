@@ -1,21 +1,26 @@
-name: Linguagens Automáticas
-
+name: Generate Languages SVG
 on:
   schedule:
-    - cron: "0 */6 * * *"  
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
+  push:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Gerar linguagens automáticas
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v3
+
+      - name: Generate languages
+        uses: anmol098/waka-readme-stats@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: languages.svg
-          template: languages
-          base: ""
-          user: isabellammachado
-          config_timezone: America/Sao_Paulo
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TIME: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SYMBOL_VERSION: 3
+          COMMIT_MESSAGE: "Atualização automática das linguagens"
