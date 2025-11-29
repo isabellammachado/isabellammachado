@@ -53,6 +53,8 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 ---
 
 <div align="center">
+  
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=isabellammachado&color=blue)
+
 </div>
 ---
