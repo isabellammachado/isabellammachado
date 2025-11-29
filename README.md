@@ -23,7 +23,13 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 </div>
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isabellammachado&theme=radical)
 
+---
+
+
+
+---
 
 ## GitHub Stats
 <div align="center">
@@ -48,3 +54,7 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 </a>
 
 </div>
+
+---
+![Contador de Visitas](https://visitor-badge.glitch.me/badge?page_id=isabellammachado.isabellammachado&color=blue)
+---
