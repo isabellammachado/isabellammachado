@@ -1,19 +1,11 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:673AB7&height=180&section=header&text=Bem-vinda%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center"> Isabella Machado</h3>
-<p align="center">Desenvolvedora Full Stack em formação | Residente SERRATEC</p>
+### 👩‍💻 Olá, mundo! Meu nome é Isabella e estou em transição para a área de TI. Atualmente, sou residente em Programação Full Stack pelo SERRATEC.
 
 ---
 
-##  Sobre mim
-
- Sempre aprendendo algo novo no universo da programação  
- Apaixonada por entender códigos ao som de *Thunderstruck*  
- Curiosa, criativa e pronta para colaborar em projetos reais  
-  
+## Sobre mim
+Sempre aprendendo algo novo no universo da programação  
+Curiosa, criativa e pronta pra colaborar em projetos reais!  
+Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thunderstruck.
 
 ---
 
@@ -32,36 +24,22 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isabellammachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+![Isabella's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isabellammachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellammachado&theme=radical&hide_border=true&background=0D1117" />
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
 ---
 
-##  Curiosidade sobre mim
-<div align="center">
-
- Amo aprender coisas novas brincando com código  
- Estudando Libras para ampliar minha comunicação  
- Sempre buscando evoluir com tecnologia e pessoas  
-
-</div>
-
----
-
-##  Contato
-
+## Contato
 <div align="center">
 
 <a href="https://www.linkedin.com/in/isabella-smachado/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:isabellamachado@gmail.com">
@@ -69,8 +47,3 @@
 </a>
 
 </div>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:673AB7,100:9C27B0&height=120&section=footer" />
-</p>
