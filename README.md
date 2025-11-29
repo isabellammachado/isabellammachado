@@ -28,11 +28,8 @@ Uma das horas mais legais do meu dia é tentar entender códigos ao som de Thund
 
 ## GitHub Stats
 <div align="center">
-
-![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellammachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellammachado&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
