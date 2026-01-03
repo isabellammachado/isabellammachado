@@ -1,10 +1,16 @@
-### Isabella Machado  
-Desenvolvedora **Full Stack pelo (SERRATEC)** · Java · Spring Boot · React  
+<div align="center">
+
+# <b>Isabella Machado</b>
+Desenvolvedora <b>Full Stack</b> pelo <b>(SERRATEC)</b> · Java · Spring Boot · React  
 
 Sempre aprendendo algo novo no universo da programação.  
 Curiosa, criativa e pronta pra colaborar em projetos reais.
 
 ---
+</div>
+
+
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
