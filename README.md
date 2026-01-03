@@ -22,7 +22,7 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellammachado&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isabellammachado&show_icons=true)
 
 ---
 
