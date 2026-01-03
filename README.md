@@ -20,7 +20,11 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 
 ---
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=isabellammachado&theme=dracula)
+## Linguagens
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![Spring](https://img.shields.io/badge/Spring%20Boot-API-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
+![React](https://img.shields.io/badge/React-Web-blue)
 
 ## Contato
 <div align="center">
