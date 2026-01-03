@@ -21,7 +21,8 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellammachado&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabellammachado&theme=default)
+
 </div>
 
 ---
