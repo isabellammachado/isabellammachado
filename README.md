@@ -20,7 +20,7 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
 
 ## Contato
 <div align="center">
