@@ -18,12 +18,13 @@ Interesse em projetos com **impacto social e inclusão**.
 
 ---
 
-##  GitHub
+## GitHub
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isabellammachado&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact)
 
 </div>
+
 
 ---
 
