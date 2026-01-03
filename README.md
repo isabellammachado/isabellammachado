@@ -1,6 +1,8 @@
 ### Isabella Machado  
 Desenvolvedora **Full Stack em formação (SERRATEC)** · Java · Spring Boot · React  
-Interesse em projetos com **impacto social e inclusão**.
+
+Sempre aprendendo algo novo no universo da programação.  
+Curiosa, criativa e pronta pra colaborar em projetos reais.
 
 ---
 
@@ -8,7 +10,7 @@ Interesse em projetos com **impacto social e inclusão**.
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -19,13 +21,8 @@ Interesse em projetos com **impacto social e inclusão**.
 ---
 
 ## GitHub
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellammachado&show_icons=true)
-
-
-</div>
-
 
 ---
 
