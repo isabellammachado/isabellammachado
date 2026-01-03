@@ -21,7 +21,8 @@ Interesse em projetos com **impacto social e inclusão**.
 ## GitHub
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellammachado&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellammachado&show_icons=true)
+
 
 </div>
 
