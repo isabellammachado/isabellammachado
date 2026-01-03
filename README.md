@@ -21,11 +21,16 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 ---
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabellammachado&theme=default)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isabellammachado&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isabellammachado&theme=github_dark" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isabellammachado&theme=github_dark" />
+</div>
+
+
+
 
 ## Contato
 <div align="center">
