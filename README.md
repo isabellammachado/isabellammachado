@@ -21,10 +21,7 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 ---
 
 
-<div align="center">
-
-![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellaMachado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-</div>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isabellammachado&layout=compact)
 
 ## Contato
 <div align="center">
