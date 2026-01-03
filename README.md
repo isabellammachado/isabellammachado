@@ -20,11 +20,11 @@ Curiosa, criativa e pronta pra colaborar em projetos reais.
 
 ---
 
-## Linguagens
-![Java](https://img.shields.io/badge/Java-Backend-orange)
-![Spring](https://img.shields.io/badge/Spring%20Boot-API-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
-![React](https://img.shields.io/badge/React-Web-blue)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellammachado&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
 
 ## Contato
 <div align="center">
